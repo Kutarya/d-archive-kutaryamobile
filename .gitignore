@@ -1,0 +1,10 @@
+.tools/
+.secrets/
+.gradle/
+**/build/
+local.properties
+Kanitlar/
+Dagitim/
+*.jks
+*.keystore
+signing.properties
